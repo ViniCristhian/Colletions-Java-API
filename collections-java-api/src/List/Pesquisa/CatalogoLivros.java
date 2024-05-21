@@ -1,4 +1,4 @@
-package List.Ordenacao;
+package List.Pesquisa;
 
 import java.util.ArrayList;
 import java.util.List;
